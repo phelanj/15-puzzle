@@ -1,0 +1,4 @@
+﻿  15p.cpp
+c:\users\tanden engine\documents\15p\15p.cpp(56): warning C4101: 'pred': unreferenced local variable
+  15p.vcxproj -> C:\Users\Tanden Engine\Documents\15p\Debug\15p.exe
+  15p.vcxproj -> C:\Users\Tanden Engine\Documents\15p\Debug\15p.pdb (Partial PDB)
